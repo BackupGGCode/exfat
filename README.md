@@ -1,7 +1,7 @@
 #exFAT
 This project aims to provide a full-featured [exFAT](http://en.wikipedia.org/wiki/ExFAT) file system implementation for GNU/Linux and other Unix-like systems as a [FUSE](http://en.wikipedia.org/wiki/Filesystem_in_Userspace) module and a set of utilities.
 
-For instructions on how to install the driver from source and use it see [HOWTO](HOWTO.md) page.
+For instructions on how to install the driver from source and use it see [HOWTO](https://github.com/BackupGGCode/exfat/blob/wiki/HOWTO.md) page.
 
 Availability in operating systems:
   * ALT Linux: in [Sisyphus](http://sisyphus.ru/ru/srpm/fuse-exfat).
